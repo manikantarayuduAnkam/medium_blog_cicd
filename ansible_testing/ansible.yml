@@ -1,4 +1,4 @@
-- hosts: security_group_launch-wizard-10
+- hosts: security_group_launch-wizard-11
   become: true
   tasks:
   
